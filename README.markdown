@@ -14,6 +14,8 @@ your blog, category pages, and feeds. But if you visit a draft's permalink
 page (e.g. `/drafts/my-draft-post`) directly in your browser, then you'll see
 the draft post rendered.
 
+To publish a draft entry simply move the file out of the drafts folder.
+
 
 ## Installation
 
