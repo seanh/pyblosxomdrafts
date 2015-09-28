@@ -8,11 +8,14 @@ For example:
 
     entries/drafts/my-draft-post.txt
     entries/category/sub-category/drafts/another-draft-post.txt
-
+    entries/drafts/sub-category/yet-another-draft-post.txt
+    
 Drafts will be filtered out from all index pages, such as the front page of
 your blog, category pages, and feeds. But if you visit a draft's permalink
 page (e.g. `/drafts/my-draft-post`) directly in your browser, then you'll see
 the draft post rendered.
+
+To publish a draft entry simply move the file out of the drafts folder.
 
 
 ## Installation
